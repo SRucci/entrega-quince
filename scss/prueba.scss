@@ -5,7 +5,7 @@
 
 $colorParrafos: black;
 $colorTitulos: rgba(0, 0, 0, 0.842);
-$tamañoParrafos: 17px;
+$tamanoParrafos: 17px;
 
 @media only screen and (max-width:600px){
     
@@ -150,7 +150,7 @@ h3{
         color: $colorParrafos;
         font-style:normal;
         font-weight:normal;
-        font-size:$tamañoParrafos;
+        font-size:$tamanoParrafos;
         font-family:'Nunito', sans-serif;
         margin: 10px;
 
@@ -262,7 +262,7 @@ h3{
                 color: $colorParrafos;
                 font-style:normal;
                 font-weight:normal;
-                font-size:$tamañoParrafos;
+                font-size:$tamanoParrafos;
                 font-family:'Nunito', sans-serif;
             }
         }
